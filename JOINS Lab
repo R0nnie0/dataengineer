@@ -1,0 +1,2 @@
+from IPython.display import IFrame
+IFrame(width=960,height=500,src='https://bpe61bfd0365e9u4psdglite.db2.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Adashdb-for-transactions%3Aus-south%3Aa%2Fbecc4abfa93741dd80821ea6c64b717b%3Aefcb3210-b198-4209-9426-e96ec14fb56d%3A%3A/console/index.html?mode=compact#/share/link/%7B%22p%22%3A%22%2Fsql%2Feditor%22%2C%22c%22%3A%7B%22title%22%3A%22JOINS%20LAB%22%2C%22owner%22%3A%22pkr18291%22%2C%22source%22%3A%22script%22%7D%2C%22r%22%3A%7B%22shell%22%3A%7B%22localTime%22%3Atrue%7D%7D%7D')
